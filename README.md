@@ -27,9 +27,11 @@ The rest of the repositories:
 
 # Recommandation API
 [API](https://github.com/POS-Cross/Bravo_recommander)
+[API Documentation](https://recommender-bravo.herokuapp.com/docs)
 
 # Dynamic Recommandation API
 [Daynamic API](https://github.com/POS-Cross/RecommendationAPI)
+[API Documentation](https://bravo-recommender.herokuapp.com/docs)
 
 # Front End 
 [FrontEnd](https://github.com/POS-Cross/FrontEnd)
