@@ -8,7 +8,8 @@ This repository contains
 
 # Software Architecture
 
-https://github.com/POS-Cross/Business-Reports/blob/main/bravo_arch.jpeg
+
+![A test image](https://github.com/POS-Cross/Business-Reports/blob/main/bravo_arch.jpeg)
 
 The rest of the repositories:
 
