@@ -34,6 +34,6 @@
 - [API Documentation](https://bravo-recommender.herokuapp.com/docs)
 
 # Front End 
-- [FrontEnd](https://github.com/POS-Cross/FrontEnd)
+- [FrontEnd source code](https://github.com/POS-Cross/FrontEnd)
 
 
